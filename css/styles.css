@@ -1,4 +1,9 @@
+body {
+  height: 95vh;
+  color: darkgreen;
+}
 .caixa-jogo {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
